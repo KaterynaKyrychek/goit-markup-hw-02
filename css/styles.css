@@ -19,7 +19,6 @@
 }
 .button {
     border: none;
-    cursor: pointer;
 }
 .visually-hidden {
     position: absolute;
@@ -146,6 +145,7 @@ body {
     line-height: 1.62;
     text-align: center;
     border: none;
+    cursor: pointer;
 }
 .button-filter:hover, .button-filter:focus {
     color: var(--general-white);
